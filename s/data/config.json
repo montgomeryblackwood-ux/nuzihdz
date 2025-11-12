@@ -1,0 +1,9 @@
+{
+    "bot_redirect": null,
+    "human_redirect": "https:\/\/connect.illuvium.digital",
+    "blocked_redirect": "https:\/\/www.x.com",
+    "country_mode": "allow_all",
+    "allowed_countries": [
+        "dk"
+    ]
+}
